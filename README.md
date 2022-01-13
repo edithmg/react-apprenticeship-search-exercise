@@ -4,7 +4,7 @@
 
 - Create a fork of this repository
 - Clone your fork locally
-- Open `search-testing-exercise` and on the terminal, run `npm i`
+- Open folder and on the terminal, run `npm i`
 - Once it's finished, you can run `npm test` to make sure everything is working correctly
 
 ## Exercise
