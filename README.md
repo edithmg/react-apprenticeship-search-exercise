@@ -4,8 +4,8 @@
 
 - Create a fork of this repository
 - Clone your fork locally
-- Open folder and on the terminal, run `npm i`
-- Once it's finished, you can run `npm test` to make sure everything is working correctly
+- Open folder and on the terminal, run `yarn`
+- Once it's finished, you can run `yarn test` to make sure everything is working correctly
 
 ## Exercise
 
