@@ -18,7 +18,7 @@ All tests can be added on `Search.test.js` and the implementation on `Search.js`
 - It can’t send an empty search
 - It needs to show at most 3 results
 
-![UI mockup of search component that includes an input with the value "Luke Skywalker", a search button and a list item with the value "Luke Skywalker"](https://lh3.googleusercontent.com/keep-bbsk/AGk0z-MLbjXLfErXo_GnJOOIonQgcSbKnwMWsBNyHLwHrakS2rLwJo1iHc67iwCkhUVBTS5Xd8DaGP6xHdeb7g112AdnhUsQtTtBttDV2x4=s550)
+![UI mockup of search component that includes an input with the value "Luke Skywalker", a search button and a list item with the value "Luke Skywalker"](https://i.imgur.com/D2gkfz5.png)
 
 
 
